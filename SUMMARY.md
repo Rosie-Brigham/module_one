@@ -9,7 +9,7 @@
     * [Damage](damage/README.md)
   * [Wednesday](weeks/1/wednesday.md)
     * [Condition Assessment](contidion-assement/README.md)
-    * [preventative-conservation-management](preventative-conservation-management/README.md)
+    * [preventative conservation management](preventative-conservation-management/README.md)
   * [Thursday]()
   * [Friday]()
 * [Week 2]()
