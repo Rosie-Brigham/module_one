@@ -37,3 +37,10 @@ Another example of this is the **Altamira Caves**, which have been closed to the
 
 **Wellington Arch** is a pretty polluted place, and so 3-4% carbon coverage on the display cases daily! This was due to a air duct from the underpass below the arch. In these cases health guidelines can be used to deinfe about of particles that should be present.
 For large ones, PM2.5, and PM10 for fine.
+
+**Glass and cathedrals***
+Isothermal glazing has proved to be the most effective way to preserving glass from pollutants and extreme climate conidtions. The issue with heated churches is that if the outside is cold and the inside is warm, condensation will settle. This will slowly dissolve the soluble compounds ect. Isothermal approach demonstrates how good research can loosen the constains on eco management.
+
+FUn fact: you can just about work out dust from visitor access. [Journal here](http://www.vam.ac.uk/content/journals/conservation-journal/spring-2011-issue-59/dust-to-dust.-access-to-access./).
+
+Higher air movement results in higher particle deposition, similarly tangential air movement results in a higher deposition rate. Hampton court did a very good survey of particle deposition on the tapestrys in the main hall.
