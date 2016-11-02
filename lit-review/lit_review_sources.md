@@ -1,6 +1,6 @@
 [Why watch bees? Motivations of citizen science volunteers in the Great Pollinator Project]
 
-[Citizen science and conservation: Recommendations for a rapidly moving field](reccomendations-for-a-rapidly-moving-field.md)
+[Citizen science and conservation: Recommendations for a rapidly moving field](reccomendations-for-a-rapidly-moving-field.md) (vaugely useful)
 
 [Motivations, learning and creativity in online citizen science]
 
