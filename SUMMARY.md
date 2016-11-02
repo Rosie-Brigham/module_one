@@ -18,3 +18,4 @@
   * [Wednesday]()
   * [Thursday]()
   * [Friday]
+* [Lit Review](lit-review/lit_review_sources.md)
