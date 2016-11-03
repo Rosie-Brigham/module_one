@@ -48,7 +48,7 @@
 
 
 
-EXAMPLES
+**EXAMPLES**
 
 brooklyn museu, - tag you're it (https://www.brooklynmuseum.org/community/blogosphere/2009/05/01/specifically-tag-youre-it/)
 
@@ -64,14 +64,16 @@ brooklyn museu, - tag you're it (https://www.brooklynmuseum.org/community/blogos
 [snapshot serengetti](https://www.snapshotserengeti.org/)
 [yellowstone wolf](http://www.yellowstonewolf.org/)
 
-MISC
+**MISC**
+
 [Department for Culture sport and stuff on digital access - providing broadband ect](https://www.gov.uk/government/speeches/annual-parliament-and-internet-conference)(vauge)
 
 [department for culture and stuff, taking part - user engagement](https://www.gov.uk/government/collections/taking-part-user-engagement)(vauge)
 
 [digital engagement](/digital-engagement.md)(vauge)
 
-DEFINITIION
+**DEFINITIION**
+
 [jeff blog](http://crowdsourcing.typepad.com/cs/2006/06/crowdsourcing_a.html)(vauge - definition only)
 
 [this defines three different types of public involement projects, useful](/texts/PublicParticipationinScientificResearch.pdf)
@@ -81,7 +83,7 @@ DEFINITIION
 ---
 
 
-TODO:
+**TODO:**
 
 
 [READ THIS JOURNAL http://theoryandpractice.citizenscienceassociation.org/articles/](http://theoryandpractice.citizenscienceassociation.org/articles/)

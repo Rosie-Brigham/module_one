@@ -7,8 +7,6 @@
     }
   },
   "variables": {
-  },
-  "styles": {
-    "website": "styles/website.css"
   }
 }
+
