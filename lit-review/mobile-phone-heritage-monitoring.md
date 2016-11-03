@@ -1,6 +1,6 @@
 # [Crowd-sourced Mobile Phone Images for Heritage Conservation Monitoring](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7413847)
 
-[text here](/text/07413847.pdf)
+[text here](texts/07413847.pdf)
 
 ##is it reliable?
 possibly
