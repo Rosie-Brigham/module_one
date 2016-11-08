@@ -1,6 +1,5 @@
 #[Next steps for citizen science](http://science.sciencemag.org.libproxy.ucl.ac.uk/content/343/6178/1436)
 
-
 ##is it reliable?
 yes, I believe so
 

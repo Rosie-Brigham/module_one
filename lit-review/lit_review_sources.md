@@ -26,7 +26,8 @@
 [Next steps for citizen science](/next-steps-for-citizen-science.md) (ok - very basic)
 
 [Citizen Science and Mobile Phone Cameras as Tools for Monitoring World Heritage](http://www.bh2013.polimi.it/papers/bh2013_paper_1.pdf)(unsure if this is reliable, or where it's from)2013
-[Citizen Science in Archaeology](cs-in-archeology.md)(ok)
+
+[Citizen Science in Archaeology](/cs-in-acheology.md)(ok)
 
 ### OK
 
