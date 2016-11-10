@@ -1,5 +1,8 @@
 #[Crowdsourcing in the Digital Humanities](http://discovery.ucl.ac.uk/1447269/1/MTerras_Crowdsourcing%20in%20Digital%20Humanities_Final.pdf)
 
+ALSO FIND THIS IN LIBRARIANSHIP K 300 COM
+
+
 ##is it reliable?
 unsure....
 Melissa Terras is Director of UCL Centre for Digital Humanities,
