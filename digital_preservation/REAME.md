@@ -12,4 +12,12 @@
 - developing innovative technology
 - enabling new relationships
 
+*digital pictures of paintings*
+extension of original value, representation of the artefact
 
+due to the tech changes, surely it's the concept that is the heritage, which evolves over time...
+
+*curious travellers*
+exists to encourage people to take photos and upload them to the website, where they can put together 3d scans of sites.
+
+Digital preservation - *the series of actions and interventions requered to ensure continued and reliable access to authentic digital objects for as long as they are deemed to be of value*
