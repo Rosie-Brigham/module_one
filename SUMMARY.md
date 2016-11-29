@@ -15,6 +15,7 @@
 * [Week 2]()
   * [Monday]()
   * [Tuesday]()
+    * [Digital Preservation](digital_preservation/README.md)
   * [Wednesday]()
   * [Thursday]()
   * [Friday]
